@@ -16,6 +16,7 @@ const LoginStateBtnWrapper = styled.button`
     
     &:hover {
         cursor: pointer;
+        color: whitesmoke;
     }
 `
 

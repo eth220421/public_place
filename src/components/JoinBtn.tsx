@@ -17,6 +17,7 @@ const JoinBtnWrapper = styled.button`
 
     &:hover {
         cursor: pointer;
+        color: whitesmoke;
     }
 `
 

@@ -36,6 +36,7 @@ const SideNavWrapper = styled.div<{isClosing: boolean}>`
     
     background-color: rgba(255, 255, 255, 0.4);
     color: black;
+    box-shadow: 3px 0 10px 0;
     
     display: flex;
     align-items: center;
